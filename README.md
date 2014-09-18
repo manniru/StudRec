@@ -1,0 +1,4 @@
+StudRec
+=======
+
+Student Records System
